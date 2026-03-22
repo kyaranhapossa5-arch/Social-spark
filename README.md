@@ -11,5 +11,9 @@ This app suggests small social actions based on the time of day.
 ## Built With
 - Kotlin
 - Android Studio
-  
+-
+ ## My Social Spark app image
 <img width="1440" height="900" alt="Screenshot 2026-03-22 at 15 28 50" src="https://github.com/user-attachments/assets/f8d60c5a-2186-4a96-b020-fa6b3b31adc4" />
+
+## My presentation of the Social Spark app 
+https://youtu.be/1Z8-fr3gNMw
